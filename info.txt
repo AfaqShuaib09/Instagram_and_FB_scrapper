@@ -1,0 +1,4 @@
+# web scrap Instagram using Selenium -> Handy Technique to extract data from web site and use them from our code
+# Selinium is a powerful scrapping library which not scrap xml, html websites but also dynamic website like
+#insta, fb, linkedin etc.
+# Any functionality that can not be acquainted using beautiful/ mechanical soup
